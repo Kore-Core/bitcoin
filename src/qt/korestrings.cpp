@@ -57,7 +57,7 @@ QT_TRANSLATE_NOOP("kore-core", ""
 "Discover own IP addresses (default: 1 when listening and no -externalip or -"
 "proxy)"),
 QT_TRANSLATE_NOOP("kore-core", ""
-"Disable all PIVX specific functionality (Masternodes, Obfuscation, SwiftTX, "
+"Disable all KORE specific functionality (Masternodes, Obfuscation, SwiftTX, "
 "Budgeting) (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("kore-core", ""
 "Distributed under the MIT software license, see the accompanying file "
@@ -330,7 +330,7 @@ QT_TRANSLATE_NOOP("kore-core", "Invalid netmask specified in -whitelist: '%s'"),
 QT_TRANSLATE_NOOP("kore-core", "Invalid port detected in masternode.conf"),
 QT_TRANSLATE_NOOP("kore-core", "Invalid private key."),
 QT_TRANSLATE_NOOP("kore-core", "Invalid script detected."),
-QT_TRANSLATE_NOOP("kore-core", "Keep N PIV anonymized (default: %u)"),
+QT_TRANSLATE_NOOP("kore-core", "Keep N KORE anonymized (default: %u)"),
 QT_TRANSLATE_NOOP("kore-core", "Keep at most <n> unconnectable transactions in memory (default: %u)"),
 QT_TRANSLATE_NOOP("kore-core", "Last Obfuscation was too recent."),
 QT_TRANSLATE_NOOP("kore-core", "Last successful Obfuscation action was too recent."),
